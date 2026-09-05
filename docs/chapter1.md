@@ -12,10 +12,10 @@ pretenden abordar y los beneficios esperados a partir de la implementación. Por
 inicial no solo informa, sino que también orienta y motiva al lector a profundizar en el contenido 
 que se presentará a lo largo del documento.
 
-## 1.1 Startup Profilee
+## 1.1. Startup Profilee
 
 
-### 1.1.1 Descripción de la Startup
+### 1.1.1. Descripción de la Startup
 
 
 ### **Misión**
@@ -24,12 +24,28 @@ que se presentará a lo largo del documento.
 ### **Visión**
 
 
-### 1.2.3 Perfiles de Integrantes del Equipo
+### 1.1.2 Perfiles de Integrantes del Equipo
 
 |                         Foto                         |                                Detalles del Perfil                                 |                                                                                    Descripción Personal                                                                                    |
 |:----------------------------------------------------:|:----------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |  ![Marcelo Angulo](../assets/img/photo/Marcelo.jpg)  |   Marcelo Martín Angulo Ramírez  <br/>(U202321425)  <br/>Ingeniería de Software.   | Tengo 21 años y soy una persona puntual, responsable y comunicativa. Me interesé por la carrera gracias a cursos de programación del colegio y a los que tomé por mi cuenta; actualmente manejo C++ y Python, y busco ampliar mis conocimientos en otros lenguajes para optimizar mi trabajo en equipo y resolver problemas. |
-| ![Yhoshua Cobades](../assets/img/photo/Yhoshua.jpeg) |    Cobades Zamora Yhoshua Hebert  <br>(U20231H117)  <br>Ingeniería de Software.    |  |
+| ![Yhoshua Cobades](../assets/img/photo/Yhoshua.jpg)  |    Cobades Zamora Yhoshua Hebert  <br>(U20231H117)  <br>Ingeniería de Software.    |  |
 |  ![Ricardo Flores](../assets/img/photo/Ricardo.jpg)  |  Flores Martinez Ricardo Andres  <br/>(U202423162)  <br/>Ingeniería de Software.   |  |
 |   ![Nestor Daniel](../assets/img/photo/Daniel.jpg)   |    Nestor Daniel Rojas Ambicho  <br/>(U20241F397)  <br/>Ingeniería de Software.    | Tengo 20 años, apasionado por la tecnología, el desarrollo de aplicaciones y la programación. Con experiencia en proyectos académicos de software, bases de datos y metodologías de desarrollo, busco constantemente aprender y dominar nuevas herramientas técnicas. Me interesé por la carrera debido a que desde el colegio me gustaban cursos relacionados a la tecnologia, y después empecé a aprender por mi cuenta. |
-| ![Rodolfo Zavaleta](../assets/img/photo/Rodolfo.jpg) | Rodolfo Martin Zavaleta Gutierrez  <br/>(U20241F733)  <br/>Ingeniería de Software. | Tengo 19 años y soy una persona puntual y responsable. Me interesé por la carrera debido a mis gustos adquiridos por la programación gracias a cursos del colegio y que tomé por mi parte. |
+| ![Rodolfo Zavaleta](../assets/img/photo/Rodolfo.jpg) | Rodolfo Martin Zavaleta Gutierrez  <br/>(U20241F733)  <br/>Ingeniería de Software. | Tengo 19 años y soy una persona puntual y responsable. Me interesé por la carrera debido a mis gustos adquiridos por la programación gracias a cursos del colegio y que tomé por mi parte. |  
+
+## 1.2. Solution Profile
+
+### 1.2.1. Antecedentes y problemática
+
+### 1.2.2. Lean UX Process
+
+#### 1.2.2.1. Lean UX Problem Statements
+
+#### 1.2.2.2. Lean UX Assumptions
+
+#### 1.2.2.3. Lean UX Hypothesis Statements
+
+#### 1.2.2.4. Lean UX Canvas
+
+## 1.3. Segmentos objetivo
