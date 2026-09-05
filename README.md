@@ -54,3 +54,5 @@ https://github.com/IngesCompany-7742
 
 **Link del repositorio del Informe:**
 [https://github.com/IngesCompany-7742/closedSource-project-report](https://github.com/IngesCompany-7742/closedSource-project-report.git)
+
+## NOTA
