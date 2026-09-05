@@ -43,6 +43,7 @@ Carrera de Ingeniería de Software
 |:---:|:---:|:---|:---|
 | 1.0.0 | 03/09/2026 | Zavaleta Gutierrez, Rodolfo Martin | Inicialización del repositorio del informe (first commit) y creación de la estructura base del proyecto. |
 | 1.1.0 | 05/09/2026 | Rojas Ambicho, Nestor Daniel | Creación de la estructura del Capítulo 1, adición de fotos de integrantes y creación de la estructura de los capítulos 2, 3, 4 y 5. |
+| 1.2.0 | 05/09/2026 | Cobades Zamora, Yhoshua Hebert | Refactorización del README.md de HTML a Markdown, actualización del .gitignore, y adición de descripción personal en el Capítulo 1. |
 
 ---
 
